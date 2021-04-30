@@ -11,7 +11,7 @@ The target audiences of this study are those people who really care about the tr
 The data was collected by Seattle SPOT Traffic Management Division and provided by Coursera via a link. There are 194,673 observations and 38 variables in this data set. Since we would like to identify the factors that cause the accident and the level of severity, we will use SEVERITYCODE as our dependent variable Y (Target Variable) , and try different combinations of independent variables X to get the result. Since the observations are quite large, we may need to filter out the missing value and delete the unrelated columns first. Then we can select the factor which may have more impact on the accidents such as weather, road condition, and light condition.
 
 ## Conclusion
-In this study, I analyzed the relationship between severity of an accident and some characteristics which describe the situation that involved the accident.I built and compared 3 different classification models to predict whether an accident would have a high or low severity. These models can have multiple application in real life.
+In this study, I analyzed the relationship between severity of an accident and some characteristics which describe the situation that involved the accident.I built and compared 3 different classification models (KNN, Decision Tree, Logistic Regression) to predict whether an accident would have a high or low severity. These models can have multiple application in real life.
 
 Based on the dataset provided for this capstone from weather, road, and light conditions pointing to certain classes, we can conclude that particular conditions have a somewhat impact on whether or not travel could result in property damage (class 1) or injury (class 2).
 
