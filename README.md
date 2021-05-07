@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Car Accident Severity Analysis
 
 ## Introduction
 Every year car accidents cause hundreds of thousands of deaths worldwide. According to a research conducted by the World Health Organization (WHO) there were 1.35 million road tra c deaths globally in 2016, with millions more sustaining serious injuries and living with long-term adverse health consequences. Globally, road tra c crashes are a leading cause of death among young people, and the main cause of death among those aged 15{29 years. Road tra c injuries are currently estimated to be the eighth leading cause of death across all age groups globally, and are predicted to become the seventh leading cause of death by 2030.
